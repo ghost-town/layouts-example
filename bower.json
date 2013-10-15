@@ -1,0 +1,6 @@
+{
+  "name": "example-layout-helpers",
+  "dependencies": {
+    "bootstrap": "twitter/bootstrap"
+  }
+}

@@ -1,0 +1,12 @@
+---
+title: Markdown
+files: ['src/content/markdown.md']
+---
+{{#extend "default"}}
+{{#content "body"}}
+<h1>{{title}}</h1>
+{{#each files}}
+  {{md this}}
+{{/each}}
+{{/content}}
+{{/extend}}

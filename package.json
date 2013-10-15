@@ -1,0 +1,49 @@
+{
+  "name": "example-layout-helpers",
+  "description": "Using the layout helpers in Assemble",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doowb/example-layout-helpers",
+  "author": {
+    "name": "Assemble"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doowb/example-layout-helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doowb/example-layout-helpers/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/doowb/example-layout-helpers/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.1",
+    "assemble-less": "~0.4.8",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-prettify": "~0.1.5",
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "grunt task",
+    "build",
+    "handlebars helper",
+    "underscore mixin",
+    "site generator",
+    "component generator",
+    "blog generator",
+    "handlebars",
+    "templates"
+  ],
+  "dependencies": {
+    "assemble-less": "~0.5.3"
+  }
+}
