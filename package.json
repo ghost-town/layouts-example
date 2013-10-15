@@ -2,21 +2,21 @@
   "name": "example-layout-helpers",
   "description": "Using the layout helpers in Assemble",
   "version": "0.1.0",
-  "homepage": "https://github.com/doowb/example-layout-helpers",
+  "homepage": "https://github.com/assemble/example-layout-helpers",
   "author": {
     "name": "Assemble"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doowb/example-layout-helpers.git"
+    "url": "https://github.com/assemble/example-layout-helpers.git"
   },
   "bugs": {
-    "url": "https://github.com/doowb/example-layout-helpers/issues"
+    "url": "https://github.com/assemble/example-layout-helpers/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/doowb/example-layout-helpers/blob/master/LICENSE-MIT"
+      "url": "https://github.com/assemble/example-layout-helpers/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
